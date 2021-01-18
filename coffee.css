@@ -1,0 +1,69 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+#header-container {
+  margin: 0 auto;
+  padding: none;
+  width: 1023px;
+  height: 100px;
+  background: hsl(32, 60%, 27%);
+  color: white;
+}
+
+#head-name {
+  font-size: 3rem;
+  color: white;
+  text-decoration: none;
+}
+
+.clear {
+  clear: both;
+}
+
+#header-links a:hover {
+  font-size: 1.3rem;
+}
+.clear {
+  clear: both;
+}
+h2 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.9rem;
+  color: chocolate;
+}
+.page-content img {
+  width: 480px;
+  padding-left: 30px;
+}
+.page-content {
+  width: 1023px;
+  margin: 0 auto;
+}
+h3 a {
+  text-decoration: none;
+  color: chocolate;
+}
+h3 a:hover {
+  text-decoration: underline;
+  color: hsl(32, 60%, 27%);
+}
+
+table {
+  border: 2px solid rgb(77, 50, 33);
+  border-spacing: 8rem;
+  margin: 0 auto;
+}
+table th {
+  color: chocolate;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 2rem;
+}
+table td {
+  color: rgb(245, 243, 241);
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 1.2rem;
+}
